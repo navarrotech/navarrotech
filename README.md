@@ -1,5 +1,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=navarrotech&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navarrotech&layout=compact&theme=vision-friendly-dark&bg_color=000000)](https://github.com/navarrotech)
+
 [//]: # (wakatime-stats)
 
 ### Wakatime Stats
