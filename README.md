@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=5ea100&height=160&section=header&text=Alex%20Navarro&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=navarrotech&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navarrotech&layout=compact&theme=vision-friendly-dark&bg_color=000000)](https://github.com/navarrotech)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navarrotech&theme=react-dark&bg_color=000000&hide_border=true)](https://github.com/navarrotech)
 
 [//]: # (wakatime-stats)
 
