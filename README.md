@@ -11,30 +11,32 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |         78 hrs 19 mins         |
-| Markdown                  |         29 hrs 56 mins         |
-| Other                     |         21 hrs 5 mins          |
-| YAML                      |         16 hrs 16 mins         |
-| JSON                      |         8 hrs 50 mins          |
+| TypeScript                |         79 hrs 20 mins         |
+| Markdown                  |         30 hrs 24 mins         |
+| Other                     |         22 hrs 27 mins         |
+| YAML                      |         18 hrs 6 mins          |
+| JSON                      |         8 hrs 59 mins          |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |        126 hrs 34 mins         |
+| Antigravity               |        133 hrs 51 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        111 hrs 18 mins         |
+| Windows                   |         119 hrs 8 mins         |
 | Linux                     |         62 hrs 32 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
