@@ -15,14 +15,14 @@
 | Markdown                  |         48 hrs 49 mins         |
 | YAML                      |         38 hrs 8 mins          |
 | Other                     |         19 hrs 44 mins         |
-| JSON                      |         19 hrs 14 mins         |
+| JSON                      |         19 hrs 26 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |        269 hrs 21 mins         |
+| Antigravity               |        269 hrs 34 mins         |
 | Claude Code               |         24 hrs 18 mins         |
 | VS Code                   |         2 hrs 52 mins          |
 +---------------------------+--------------------------------+
@@ -32,11 +32,13 @@
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
 | Windows                   |        151 hrs 10 mins         |
-| Linux                     |        148 hrs 45 mins         |
+| Linux                     |        148 hrs 58 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
