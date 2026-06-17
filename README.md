@@ -11,32 +11,34 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |        130 hrs 18 mins         |
-| Markdown                  |         51 hrs 31 mins         |
-| YAML                      |          39 hrs 1 min          |
-| Other                     |          25 hrs 1 min          |
-| Rust                      |         22 hrs 58 mins         |
+| TypeScript                |         133 hrs 6 mins         |
+| Markdown                  |         55 hrs 19 mins         |
+| YAML                      |         40 hrs 2 mins          |
+| Other                     |         26 hrs 4 mins          |
+| Rust                      |             23 hrs             |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |        290 hrs 54 mins         |
-| Claude Code               |         25 hrs 38 mins         |
-| VS Code                   |         2 hrs 52 mins          |
+| Antigravity               |        292 hrs 44 mins         |
+| Claude Code               |         27 hrs 17 mins         |
+| VS Code                   |         10 hrs 7 mins          |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        173 hrs 51 mins         |
+| Windows                   |        184 hrs 34 mins         |
 | Linux                     |        148 hrs 58 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
