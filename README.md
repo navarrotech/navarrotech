@@ -23,7 +23,7 @@
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Antigravity               |        295 hrs 48 mins         |
-| Claude Code               |         37 hrs 21 mins         |
+| Claude Code               |         37 hrs 47 mins         |
 | VS Code                   |         21 hrs 44 mins         |
 +---------------------------+--------------------------------+
 
@@ -31,12 +31,14 @@
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |         202 hrs 6 mins         |
+| Windows                   |        202 hrs 32 mins         |
 | Linux                     |        156 hrs 10 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
