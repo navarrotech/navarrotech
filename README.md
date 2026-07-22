@@ -11,32 +11,34 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |        149 hrs 25 mins         |
-| Markdown                  |         77 hrs 3 mins          |
-| YAML                      |         45 hrs 9 mins          |
-| Other                     |         32 hrs 54 mins         |
-| Rust                      |         31 hrs 21 mins         |
+| TypeScript                |        149 hrs 56 mins         |
+| Markdown                  |         78 hrs 32 mins         |
+| YAML                      |         45 hrs 29 mins         |
+| Rust                      |         35 hrs 8 mins          |
+| Other                     |         33 hrs 18 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |         297 hrs 1 min          |
-| Claude Code               |         76 hrs 51 mins         |
-| VS Code                   |         31 hrs 51 mins         |
+| Antigravity               |         297 hrs 7 mins         |
+| Claude Code               |         83 hrs 56 mins         |
+| VS Code                   |         32 hrs 13 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        243 hrs 31 mins         |
-| Linux                     |        165 hrs 36 mins         |
+| Windows                   |        250 hrs 47 mins         |
+| Linux                     |        165 hrs 53 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
