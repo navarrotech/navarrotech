@@ -11,10 +11,10 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |        149 hrs 56 mins         |
-| Markdown                  |         78 hrs 32 mins         |
-| YAML                      |         45 hrs 29 mins         |
-| Rust                      |         35 hrs 8 mins          |
+| TypeScript                |        150 hrs 30 mins         |
+| Markdown                  |         79 hrs 25 mins         |
+| YAML                      |         45 hrs 43 mins         |
+| Rust                      |         35 hrs 23 mins         |
 | Other                     |         33 hrs 18 mins         |
 +---------------------------+--------------------------------+
 
@@ -22,21 +22,23 @@
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |         297 hrs 7 mins         |
-| Claude Code               |         83 hrs 56 mins         |
-| VS Code                   |         32 hrs 13 mins         |
+| Antigravity               |        297 hrs 21 mins         |
+| Claude Code               |         85 hrs 55 mins         |
+| VS Code                   |         32 hrs 14 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        250 hrs 47 mins         |
-| Linux                     |        165 hrs 53 mins         |
+| Windows                   |        252 hrs 33 mins         |
+| Linux                     |        166 hrs 21 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
