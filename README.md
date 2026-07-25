@@ -11,32 +11,35 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |        150 hrs 30 mins         |
-| Markdown                  |         79 hrs 25 mins         |
-| YAML                      |         45 hrs 43 mins         |
-| Rust                      |         35 hrs 23 mins         |
-| Other                     |         33 hrs 18 mins         |
+| TypeScript                |        165 hrs 28 mins         |
+| Markdown                  |        103 hrs 20 mins         |
+| YAML                      |         51 hrs 27 mins         |
+| Rust                      |         44 hrs 39 mins         |
+| Other                     |         37 hrs 58 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Antigravity               |        297 hrs 21 mins         |
-| Claude Code               |         85 hrs 55 mins         |
-| VS Code                   |         32 hrs 14 mins         |
+| Antigravity               |        303 hrs 31 mins         |
+| Claude Code               |        141 hrs 52 mins         |
+| VS Code                   |         31 hrs 58 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        252 hrs 33 mins         |
-| Linux                     |        166 hrs 21 mins         |
+| Windows                   |        277 hrs 17 mins         |
+| Linux                     |         200 hrs 4 mins         |
+| Unknown OS                |         13 hrs 4 mins          |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
