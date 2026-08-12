@@ -11,11 +11,11 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| TypeScript                |        171 hrs 11 mins         |
-| Markdown                  |        114 hrs 53 mins         |
-| YAML                      |         51 hrs 43 mins         |
-| Rust                      |         47 hrs 15 mins         |
-| Other                     |         39 hrs 42 mins         |
+| TypeScript                |        171 hrs 36 mins         |
+| Markdown                  |        116 hrs 23 mins         |
+| YAML                      |         51 hrs 56 mins         |
+| Rust                      |         49 hrs 36 mins         |
+| Other                     |          40 hrs 1 min          |
 +---------------------------+--------------------------------+
 
 
@@ -23,21 +23,23 @@
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Antigravity               |        303 hrs 45 mins         |
-| Claude Code               |        161 hrs 43 mins         |
-| VS Code                   |         37 hrs 50 mins         |
+| Claude Code               |        167 hrs 23 mins         |
+| VS Code                   |         37 hrs 51 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        293 hrs 32 mins         |
+| Windows                   |        299 hrs 12 mins         |
 | Linux                     |        209 hrs 47 mins         |
 | Unknown OS                |         13 hrs 4 mins          |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
